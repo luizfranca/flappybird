@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 91c4c658b6f5b4dc49ac6062a2a5e34c
+timeCreated: 1504926748
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FlappyBirdy
+  fontNames:
+  - FlappyBirdy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
