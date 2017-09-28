@@ -1,12 +1,13 @@
 fileFormatVersion: 2
 guid: 562cf0ae9dfa34029ad9a6505b31071f
-timeCreated: 1506300882
+timeCreated: 1506566334
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Background
     21300002: Background_Night
     21300004: Mobile - Flappy Bird - Version 12 Sprites_2
-    21300006: Mobile - Flappy Bird - Version 12 Sprites_3
+    21300006: Floor
     21300008: Mobile - Flappy Bird - Version 12 Sprites_4
     21300010: Mobile - Flappy Bird - Version 12 Sprites_5
     21300012: Mobile - Flappy Bird - Version 12 Sprites_6
@@ -154,27 +155,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mobile - Flappy Bird - Version 12 Sprites_2
+      name: Floor
       rect:
         serializedVersion: 2
-        x: 128
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Mobile - Flappy Bird - Version 12 Sprites_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 448
-        width: 64
-        height: 64
+        x: 292
+        y: 456
+        width: 168
+        height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
